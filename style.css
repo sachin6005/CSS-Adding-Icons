@@ -1,0 +1,42 @@
+#fb-btn{
+background-color: #1877f2;
+color: white;
+border-radius: 5px;
+padding: 5px;
+font-weight: bolder;
+}
+#github-btn{
+background-color: black;
+color: white;
+border-radius: 5px;
+padding: 5px;
+font-weight: bolder;
+}
+#card-btn{
+background-color: rgb(71, 182, 80);
+color: white;
+border-radius: 5px;
+padding: 5px;
+font-weight: bolder;
+}
+#play-btn{
+    background-color: darkblue;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+    font-weight: bolder;
+    }
+#pause-btn{
+    background-color: teal;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+    font-weight: bolder;
+    }
+#mute-btn{
+    background-color: saddlebrown;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+    font-weight: bolder;
+    }
